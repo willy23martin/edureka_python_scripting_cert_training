@@ -1,0 +1,2 @@
+# edureka_python_scripting_cert_training
+Edureka-Python Scripting Certification Training
